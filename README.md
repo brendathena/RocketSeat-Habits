@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
+Visite [aqui](https://brendathena.github.io/RocketSeat-Habits) a versão final do projeto.
 
 ## 🔖 Layout
 
